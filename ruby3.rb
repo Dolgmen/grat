@@ -15,4 +15,4 @@ puts (num.abs())
 puts (num.round())
 puts Math.sqrt(144)
 puts (Math.log(145).round())
-puts
+push
